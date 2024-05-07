@@ -10,6 +10,7 @@ The zoo folder structure consists of different animal categories, such as mammal
 
 ## Tools and Technologies Used
 
+- VirtualBox
 - Ubuntu Desktop
 - Linux command-line interface (terminal)
 - Basic Linux commands: `mkdir`, `cd`, `touch`, `echo`, `ls`
